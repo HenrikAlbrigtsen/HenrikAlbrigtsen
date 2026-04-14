@@ -2,7 +2,7 @@
 
 <h2> What i want to do </h2>
 
-I want to Learn alot about cybersecurity And Track all my progress here
+I want to Learn alot about cybersecurity And Track all my progress here.
 Starting from today i wil start working towards my goal 
 
 
