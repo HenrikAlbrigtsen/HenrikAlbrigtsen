@@ -1,5 +1,11 @@
 <h1>Hi, I'm Henrik 👋</h1>
 
+<h2> What i want to do </h2>
+
+I want to Learn alot about cybersecurity And Track all my progress here
+Starting from today i wil start working towards my goal 
+
+
 <h2>🛡️ Cybersecurity Projects</h2>
 
 - [Coming soon]
