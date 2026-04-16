@@ -8,14 +8,15 @@ Starting from today i wil start working towards my goal
 
 <h2>🛡️ Cybersecurity Projects</h2>
 
-- [Coming soon]
+- [📡 Network Monitoring with Wireshark & Zeek](https://github.com/HenrikAlbrigtsen/network-monitoring-home-lab-wireshark-zeek/) [Currently working on it]
+
+- [More Coming soon]
 
 <h2>⚙️ Projects In Progress</h2>
 
 - [🔍 SIEM Lab (Azure Sentinel) – Log Analysis & Threat Detection](#)
 - [🐧 Linux Hardening Project – Secure a Vulnerable System](#)
 - [🌐 Web App Pentesting Lab – OWASP Top 10](#)
-- [📡 Network Monitoring with Wireshark & Zeek](https://github.com/HenrikAlbrigtsen/network-monitoring-home-lab-wireshark-zeek/)
 - [🔐 Password Cracking Lab with Hashcat](#)
 - [☁️ IAM Lab in AWS – Identity & Access Management](#)
 - [🖥️ Active Directory Home Lab – Attack & Defense](#)
