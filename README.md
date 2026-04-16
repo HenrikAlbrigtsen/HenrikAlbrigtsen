@@ -15,7 +15,7 @@ Starting from today i wil start working towards my goal
 - [🔍 SIEM Lab (Azure Sentinel) – Log Analysis & Threat Detection](#)
 - [🐧 Linux Hardening Project – Secure a Vulnerable System](#)
 - [🌐 Web App Pentesting Lab – OWASP Top 10](#)
-- [📡 Network Monitoring with Wireshark & Zeek](#)
+- [📡 Network Monitoring with Wireshark & Zeek](https://github.com/HenrikAlbrigtsen/network-monitoring-home-lab-wireshark-zeek/)
 - [🔐 Password Cracking Lab with Hashcat](#)
 - [☁️ IAM Lab in AWS – Identity & Access Management](#)
 - [🖥️ Active Directory Home Lab – Attack & Defense](#)
