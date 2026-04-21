@@ -16,10 +16,9 @@ Starting from today i wil start working towards my goal
 
 - [🔍 SIEM Lab (Azure Sentinel) – Log Analysis & Threat Detection](#)
 - [🐧 Linux Hardening Project – Secure a Vulnerable System](#)
-- [🌐 Web App Pentesting Lab – OWASP Top 10](#)
 - [🔐 Password Cracking Lab with Hashcat](#)
 - [☁️ IAM Lab in AWS – Identity & Access Management](#)
-- [🖥️ Active Directory Home Lab – Attack & Defense](#)
+- [🖥️ Active Directory Home Lab](#)
 - [🚨 SOC Analyst Lab – Incident Detection & Response](#)
 
 <h2>📺 Learning & Documentation</h2>
