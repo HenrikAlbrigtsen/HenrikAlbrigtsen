@@ -28,5 +28,5 @@ Starting from today i wil start working towards my goal
 
 <h2> 🤳 Connect with me:</h2>
 
-[youtube]
-[Linkedin]
+- [youtube]
+- [Linkedin](https://www.linkedin.com/in/henrik-albrigtsen-029153405/)
