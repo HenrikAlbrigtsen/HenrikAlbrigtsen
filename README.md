@@ -26,9 +26,16 @@ Starting from today i wil start working towards my goal
 - [VboxTracker](https://github.com/HenrikAlbrigtsen/VboxTracker)
 
 
+
+<h2>🔧AI tools / agents For Cyber </h2>
+
+- [Claude](#)
+- [Codex](#)
+
 <h2>📺 Learning & Documentation</h2>
 
 - Documenting labs and writeups (coming soon)
+
 
 <h2> 🤳 Connect with me:</h2>
 
